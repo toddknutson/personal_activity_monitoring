@@ -1,3 +1,5 @@
+## [View final rendered R markdown as HTML](http://htmlpreview.github.io/?https://github.com/toddknutson/personal_activity_monitoring/blob/master/PA1_template.html)
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
